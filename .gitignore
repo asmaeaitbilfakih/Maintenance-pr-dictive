@@ -4,3 +4,7 @@ venv/
 .env
 .ipynb_checkpoints/
 models/*.pkl
+data/synthetic/*.npy
+data/processed/
+data/synthetic/*.npy
+data/processed/

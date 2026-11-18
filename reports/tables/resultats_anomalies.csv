@@ -1,0 +1,4 @@
+modèle,ROC-AUC,PR-AUC,seuil,pannes détectées,taux de détection,délai médian (h),fausses alarmes (sain)
+Isolation Forest,0.941,0.314,0.522,43/44,0.977,1038.0,0.0088
+One-Class SVM,0.983,0.576,-1.796,43/44,0.977,667.0,0.0018
+Autoencodeur,0.955,0.391,2.2,43/44,0.977,592.0,0.0
