@@ -8,3 +8,4 @@ data/synthetic/*.npy
 data/processed/
 data/synthetic/*.npy
 data/processed/
+data/synthetic/*.csv
