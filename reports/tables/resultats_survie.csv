@@ -1,0 +1,4 @@
+type,forme ρ estimée,IC95 % ρ,forme vraie (beta),échelle λ estimée (h),"échelle vraie (eta, h)",âge optimal de remplacement T* (h),coût/h à T*,coût/h sans préventif,économie
+broyeur,1.77,[1.47 ; 2.07],2.2,2196.06,1800,860,0.00275,0.00409,33%
+compresseur,2.36,[1.86 ; 2.85],3.0,3440.04,3000,1330,0.00133,0.00262,49%
+ventilateur,2.33,[1.86 ; 2.81],2.6,3137.05,2400,1210,0.00147,0.00288,49%
