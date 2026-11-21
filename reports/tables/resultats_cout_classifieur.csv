@@ -1,0 +1,7 @@
+,MAD/h,MAD/an/machine,économie vs corrective
+Corrective (attendre la panne),457.0997580771119,3657000.0,0%
+Préventive à âge fixe,297.86456794614344,2383000.0,35%
+Prédictive (alarme anomalies),106.2802361702596,850000.0,77%
+"Prédictive (classifieur, seuil 0,5)",79.4049102204833,635000.0,83%
+"Prédictive (classifieur, seuil coût = 0.8)",79.1544037534858,633000.0,83%
+Idéale (limite théorique),77.89008210647759,623000.0,83%
