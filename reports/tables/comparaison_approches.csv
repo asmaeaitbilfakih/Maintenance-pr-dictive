@@ -1,0 +1,6 @@
+Approche,Étiquettes nécessaires,PR-AUC (panne < 48 h),MAD/h,économie vs corrective
+Corrective (attendre la panne),—,—,457.0997580771119,0%
+Survie : remplacement à âge fixe,oui (durées de vie),—,297.86456794614344,35%
+Anomalies (One-Class SVM),non,0.576,106.2802361702596,77%
+"Classifieur (XGBoost, seuil coût)",oui (« panne dans 48 h »),0.892,79.1544037534858,83%
+Idéale (limite théorique),—,—,77.89008210647759,83%
